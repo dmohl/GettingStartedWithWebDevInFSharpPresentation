@@ -1,0 +1,9 @@
+Title: Getting Started With F# Web Development
+
+Abstract: 
+
+Many of the features provided by F# lend themselves well to web development. In this talk, we will quickly go over some of the basics of the F# language, then dive into four quick ways to get started developing web application in F#. By the end, we will have built an F# and C# Silverlight application, an F# only Silverlight application, an F# and C# ASP.NET MVC 2 web application, and a web application with a platform called WebSharper. 
+
+Bio:
+
+Daniel Mohl is a professional software engineer/architect whose interests include understanding the intricacies of various programming languages, enterprise application architecture, and how to bridge the gap between business and technology. He is a C# MVP, F# Insider, blogger, speaker, event organizer, and an application architect at Deloitte. He works with F#, C#, Erlang, ASP.NET MVC, WPF, Silverlight, WP7, WCF, RabbitMQ, CouchDB, SQL Server, etc. You can follow him on twitter at www.twitter.com/dmohl. You can view his blog at blog.danielmohl.com.
