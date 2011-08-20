@@ -1,0 +1,12 @@
+C:\git\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExampleWebApp\bin\Debug\MsdnWebApp.XML
+C:\git\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExampleWebApp\bin\Debug\MsdnWebApp.dll
+C:\git\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExampleWebApp\bin\Debug\MsdnWebApp.pdb
+C:\git\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExampleWebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExampleWebApp\obj\Debug\MsdnWebApp.dll
+C:\git\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExampleWebApp\obj\Debug\MsdnWebApp.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Web Dev in F#\Examples\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExampleWebApp\bin\Debug\MsdnWebApp.XML
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Web Dev in F#\Examples\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExampleWebApp\bin\Debug\MsdnWebApp.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Web Dev in F#\Examples\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExampleWebApp\bin\Debug\MsdnWebApp.pdb
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Web Dev in F#\Examples\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExampleWebApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Web Dev in F#\Examples\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExampleWebApp\obj\Debug\MsdnWebApp.dll
+C:\Users\Daniel Mohl\Dropbox\Dan\Presentations\Web Dev in F#\Examples\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExample\FsCoffeeScriptjQueryUIExampleWebApp\obj\Debug\MsdnWebApp.pdb

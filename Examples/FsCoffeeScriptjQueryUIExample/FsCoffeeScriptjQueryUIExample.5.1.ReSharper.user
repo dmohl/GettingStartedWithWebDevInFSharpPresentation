@@ -1,0 +1,33 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7B6EFECF-B196-4581-BC1A-78B23FCFD74F/f:UserManagerController.fs" caret="0" fromTop="0" />
+      <File id="d:Miscellaneous Files/f:Sample_FSharp_Script.fsx/l:C!?Users?Daniel Mohl?Dropbox?Dan?Presentations?Web Dev in F#?Examples?FSharp_Scripts?Sample_FSharp_Script.fsx" caret="371" fromTop="10" />
+      <File id="d:Miscellaneous Files/f:FetchMuseumsListExample.fsx/l:C!?Users?Daniel Mohl?Dropbox?Dan?Presentations?Web Dev in F#?Examples?FSharp_Scripts?FetchMuseumsListExample.fsx" caret="0" fromTop="0" />
+      <File id="d:Miscellaneous Files/f:TwitterFeed.fsx/l:C!?Users?Daniel Mohl?Dropbox?Dan?Presentations?Web Dev in F#?Examples?TwitterFeed?TwitterFeed.fsx" caret="2231" fromTop="15" />
+      <File id="d:Miscellaneous Files/f:Script.fsx/l:C!?Users?Daniel Mohl?Dropbox?Dan?Presentations?Web Dev in F#?Examples?InteractiveDirectX?Script.fsx" caret="7207" fromTop="6" />
+      <File id="7B6EFECF-B196-4581-BC1A-78B23FCFD74F/f:HomeController.fs" caret="25" fromTop="0" />
+      <File id="C3829D98-DBEE-4095-8935-9B9C4A7145FF/d:Scripts/d:PictureManager/f:PictureManager.coffee" caret="999" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="d:Miscellaneous Files/f:Sample_FSharp_Script.fsx/l:C!?Users?Daniel Mohl?Dropbox?Dan?Presentations?Web Dev in F#?Examples?FSharp_Scripts?Sample_FSharp_Script.fsx" caret="297" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
